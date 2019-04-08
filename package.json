@@ -1,0 +1,18 @@
+{
+  "name": "discord-dice",
+  "version": "1.0.0",
+  "description": "Rolls dice for you",
+  "main": "bot.js",
+  "author": "Mikhail Khrenov",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "erlpack": "^0.1.2",
+    "libsodium-wrappers": "^0.7.4",
+    "node-opus": "^0.3.1",
+    "opusscript": "0.0.6",
+    "sodium": "^3.0.2",
+    "uws": "^100.0.1"
+  }
+}
